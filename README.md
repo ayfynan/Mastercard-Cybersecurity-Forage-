@@ -3,7 +3,7 @@ This repository documents my completion of the **Mastercard Cybersecurity Job Si
 The program provided practical exposure to **cybersecurity tasks in a financial services context**, simulating the work of a cybersecurity analyst at Mastercard.  
 
 ## 📜 Certificate
-![Certificate](Mastercard%20Cybersecurity.png)  
+![Certificate](Mastercard%20Cybersecurity.pdf)  
 
 
 ##  Program Overview
